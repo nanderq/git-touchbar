@@ -3,6 +3,10 @@
   "displayName": "git-touchbar",
   "description": "Adds Touch Bar buttons in VS Code to run common Git commands in the current workspace.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanderq/git-touchbar"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
