@@ -12,8 +12,7 @@ The extension is repository-aware:
 - `Init Git` runs `git init` in the active terminal.
 - `Commit` opens the built-in Source Control view and focuses the commit input.
 	This lets you use VS Code's own commit workflow, including the built-in `Generate Commit Message` action when Copilot is available.
-- `Push` and `Pull` are currently placeholders and do not run Git commands yet.
-
+    
 ## Requirements
 
 - macOS with Touch Bar support.
